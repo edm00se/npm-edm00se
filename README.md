@@ -23,8 +23,8 @@ console.log(edm00se.name.first + ' ' + edm00se.name.last);
 MIT © [Eric McCormick](https://edm00se.io/)
 
 
-[npm-image]: https://badge.fury.io/js/npm-edm00se.svg
-[npm-url]: https://npmjs.org/package/npm-edm00se
+[npm-image]: https://badge.fury.io/js/edm00se.svg
+[npm-url]: https://npmjs.org/package/edm00se
 [travis-image]: https://travis-ci.org/edm00se/npm-edm00se.svg?branch=master
 [travis-url]: https://travis-ci.org/edm00se/npm-edm00se
 [daviddm-image]: https://david-dm.org/edm00se/npm-edm00se.svg?theme=shields.io
