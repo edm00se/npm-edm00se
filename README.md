@@ -8,7 +8,7 @@ Inspired by [kentcdodds/npm-kentcdodds](https://github.com/kentcdodds/npm-kentcd
 ## Installation
 
 ```sh
-$ npm install --save npm-edm00se
+$ npm install --save edm00se
 ```
 
 ## Usage
