@@ -5,7 +5,7 @@
   "homepage": "https://github.com/edm00se/npm-edm00se#readme",
   "author": "Eric McCormick (https://ericmccormick.io/)",
   "files": [
-    "lib"
+    "dist"
   ],
   "main": "lib/index.js",
   "keywords": [],
