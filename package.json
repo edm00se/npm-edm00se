@@ -1,6 +1,6 @@
 {
   "name": "edm00se",
-  "version": "1.5.0",
+  "version": "2.0.0",
   "description": "",
   "homepage": "https://github.com/edm00se/npm-edm00se#readme",
   "author": "Eric McCormick (https://ericmccormick.io/)",
@@ -42,6 +42,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edm00se/npm-edm00se.git"
+    "url": "https://github.com/edm00se/npm-edm00se.git"
   }
 }

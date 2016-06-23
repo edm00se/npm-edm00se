@@ -1,5 +1,5 @@
 # npm-edm00se [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> an npm module to reserve the edm00es namespace&#39;d package
+> an npm module to reserve the edm00se namespace&#39;d package
 
 ## What Is This?
 
