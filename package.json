@@ -1,13 +1,10 @@
 {
   "name": "edm00se",
-  "version": "1.9.0",
+  "version": "2.0.0",
   "description": "",
   "homepage": "https://github.com/edm00se/npm-edm00se#readme",
   "author": "Eric McCormick (https://ericmccormick.io/)",
   "main": "index.js",
-  "files": [
-    "index.js"
-  ],
   "keywords": [],
   "scripts": {
     "test": "mocha"
