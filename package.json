@@ -1,10 +1,13 @@
 {
   "name": "edm00se",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "",
   "homepage": "https://github.com/edm00se/npm-edm00se#readme",
   "author": "Eric McCormick (https://ericmccormick.io/)",
-  "main": "lib/index.js",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "keywords": [],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
