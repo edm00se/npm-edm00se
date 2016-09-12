@@ -1,4 +1,4 @@
-# npm-edm00se [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage Status][codecov-image]][codecov-url]
+# npm-edm00se [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 > an npm module to reserve the edm00es namespace&#39;d package
 
 ## What Is This?
@@ -27,7 +27,3 @@ MIT © [Eric McCormick](https://edm00se.io/)
 [npm-url]: https://npmjs.org/package/edm00se
 [travis-image]: https://travis-ci.org/edm00se/npm-edm00se.svg?branch=master
 [travis-url]: https://travis-ci.org/edm00se/npm-edm00se
-[daviddm-image]: https://david-dm.org/edm00se/npm-edm00se.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/edm00se/npm-edm00se
-[codecov-image]: https://codecov.io/github/edm00se/npm-edm00se/coverage.svg
-[codecov-url]: https://codecov.io/github/edm00se/npm-edm00se

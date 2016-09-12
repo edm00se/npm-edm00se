@@ -1,7 +1,0 @@
-comment:
-  layout: header, changes, diff
-coverage:
-  status:
-    patch: false
-codecov:
-  token: d7361ecf-6900-46ac-9c94-a833c34036e7

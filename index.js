@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   name: {
     first: 'Eric',
     last: 'McCormick'
@@ -6,4 +6,4 @@ export default {
   twitter: 'https://twitter.com/edm00se',
   github: 'https://github.com/edm00se',
   stackoverflow: 'https://stackoverflow.com/users/1720082/eric-mccormick'
-};
+}
