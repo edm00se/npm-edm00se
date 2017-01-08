@@ -1,5 +1,5 @@
-import assert from 'assert';
-import edm00se from '../lib';
+const assert = require('assert');
+const edm00se = require('../lib');
 
 describe('npm-edm00se', () => {
   it('module should provide properties', () => {
