@@ -1,7 +1,7 @@
 const assert = require('assert');
 const edm00se = require('../lib');
 
-describe('npm-edm00se', () => {
+describe('npm-edm00se', function(){
   it('module should provide properties', () => {
     const name = edm00se.name;
     assert.equal(name.first, 'Eric', 'first name is "Eric"');
