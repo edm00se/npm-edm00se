@@ -1,4 +1,4 @@
-# npm-edm00se [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# npm-edm00se [![NPM version][npm-image]][npm-url] [![Node CI][gh-build-image]][gh-build-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > an npm module to reserve the edm00se namespace&#39;d package
 
 ## What Is This?
@@ -25,8 +25,8 @@ MIT © [Eric McCormick](https://edm00se.io/)
 
 [npm-image]: https://badge.fury.io/js/edm00se.svg
 [npm-url]: https://npmjs.org/package/edm00se
-[travis-image]: https://travis-ci.org/edm00se/npm-edm00se.svg?branch=master
-[travis-url]: https://travis-ci.org/edm00se/npm-edm00se
+[gh-build-image]: https://github.com/edm00se/npm-edm00se/actions/workflows/nodejs.yml/badge.svg
+[gh-build-url]: https://github.com/edm00se/npm-edm00se/actions/workflows/nodejs.yml
 [daviddm-image]: https://david-dm.org/edm00se/npm-edm00se.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/edm00se/npm-edm00se
 [coveralls-image]: https://coveralls.io/repos/edm00se/npm-edm00se/badge.svg
